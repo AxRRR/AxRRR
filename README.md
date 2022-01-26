@@ -1,16 +1,25 @@
-### Hi there 👋
+## *Fabrizio Luna - @AxRRR*
 
-<!--
-**AxRRR/AxRRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Estudios
+> Actualmente realizo un Bootcamp en DigitalHouse como Full-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Conocimientos
+Me especializo en FrontEnd con tecnologias como React.js o Next.js
+<br>
+Tambien he desarrollado aplicaciones móviles en Dart con Flutter
+<br><br>
+Tecnologias que he utilizado:
+<ul>
+  <li>Redux</li>
+  <li>SASS</li>
+  <li>Spring Boot(nivel básico)</li>
+  <li>Express.js</li>
+  <li>Bases de datos con MongoDB</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Python</li>
+  <li>JavaScript Vanilla</li>
+  </ul>
+
+
