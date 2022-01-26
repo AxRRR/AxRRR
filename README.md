@@ -20,6 +20,7 @@ Tecnologias que he utilizado:
   <li>CSS3</li>
   <li>Python</li>
   <li>JavaScript Vanilla</li>
+  <li>Typescript</li>
   </ul>
 
 
