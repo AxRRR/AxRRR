@@ -1,5 +1,7 @@
 ## *Fabrizio Luna - @AxRRR*
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrizioluna&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizioluna&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Estudios
 > Actualmente realizo un Bootcamp en DigitalHouse como Full-Stack
